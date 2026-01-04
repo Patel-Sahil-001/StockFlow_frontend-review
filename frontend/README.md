@@ -1,14 +1,14 @@
-# StockFlow Frontend - Project Review Demo
+# StockFlow Frontend
 
 ## Overview
 
-This is a simplified version of the StockFlow inventory management system frontend, showcasing basic functionality and UI design.
+This is the StockFlow inventory management system frontend.
 
 ## Features Implemented
 
-- ✅ Landing Page with basic information
+- ✅ Landing Page
 - ✅ User Authentication (Sign In / Sign Up forms)
-- ✅ Basic Dashboard skeleton
+- ✅ Dashboard
 - ✅ Simple reusable components (Button, Input, Card)
 - ✅ React Router navigation
 
@@ -24,7 +24,7 @@ This is a simplified version of the StockFlow inventory management system fronte
 ### Installation
 
 ```bash
-cd project_review_demo
+cd frontend
 npm install
 ```
 
